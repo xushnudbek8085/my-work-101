@@ -1,0 +1,27 @@
+.parent{
+    background-color: green;
+ padding: 50px;
+}
+.top{
+    height: 200px;
+    background-color: white;
+    margin: 20px;
+}
+.middle{
+    display: flex;
+}
+.bottom{
+    display: flex;
+}
+.box{
+    background-color: white;
+    height: 200px;
+    flex-grow: 1;
+    margin: 20px;
+}
+
+.a1{
+   width: 1520px;
+   flex-grow: 0;
+   
+}
